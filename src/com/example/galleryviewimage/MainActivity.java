@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 @SuppressWarnings("deprecation")
 public class MainActivity extends Activity {
-	
+	String test;
 	 Gallery g;
 	 public int images[] = {R.drawable.pic1,R.drawable.pic2,R.drawable.pic3,R.drawable.pic4,R.drawable.pic5};
 
